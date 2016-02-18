@@ -38,7 +38,7 @@
      showgrid="false"
      inkscape:zoom="1.5257978"
      inkscape:cx="575.05846"
-     inkscape:cy="175.68674"
+     inkscape:cy="963.31963"
      inkscape:window-x="1358"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -248,13 +248,13 @@
            id="coffee-title"><text
              font-size="28.2251"
              id="text161"
-             x="273.05029"
+             x="313.05023"
              y="394.18185"
              style="font-size:28.22509956px;font-family:LeagueGothic;fill:#ffffff">SYNTHETIC</text>
 <text
              id="text3919"
              font-size="28.2251"
-             x="294.97021"
+             x="334.97064"
              y="421.92194"
              style="font-size:28.22509956px;font-family:LeagueGothic;fill:#ffffff">BIOLOGY</text>
 </g><g
@@ -496,7 +496,7 @@
            id="design-title"><text
              font-size="28.2251"
              id="text198"
-             x="673.6095"
+             x="713.60962"
              y="526.25372"
              style="font-size:28.22509956px;font-family:LeagueGothic;fill:#ffffff">PHOTONICS</text>
 </g><g
@@ -593,7 +593,7 @@
            id="build-title"><text
              font-size="28.2251"
              id="text272"
-             x="310.98618"
+             x="350.98624"
              y="684.56116"
              style="font-size:28.22509956px;font-family:LeagueGothic;fill:#ffffff">SPACE</text>
 </g><g
@@ -720,13 +720,13 @@
            id="complain-title"><text
              font-size="24.3935"
              id="text240"
-             x="702.02051"
+             x="742.02026"
              y="911.33331"
              style="font-size:24.39349937px;font-family:LeagueGothic;fill:#ffffff">COMPUTER</text>
 <text
              font-size="24.3935"
              id="text242"
-             x="681.71716"
+             x="721.7168"
              y="937.25214"
              style="font-size:24.39349937px;font-family:LeagueGothic;fill:#ffffff">ENGINEERING</text>
 </g><g
@@ -1284,13 +1284,13 @@
                  d="m 318.4,419.56 c 3.77,-1.35 7.84,-0.5 11.73,-0.21 -5.78,6.16 -12.28,11.66 -17.57,18.27 -4.04,0.05 -8.08,0.07 -12.12,0.03 3.73,-4.68 8.35,-8.5 12.4,-12.88 1.78,-1.8 3.43,-3.8 5.56,-5.21 z" /></g></g><text
              font-size="18"
              id="text321"
-             x="214.08926"
+             x="295.08917"
              y="1248.8433"
              style="font-size:18px;font-family:LeagueGothic;fill:#ebf4ce">BUILDING HARDWARE</text>
 <text
              font-size="18"
              id="text323"
-             x="209.59009"
+             x="290.59006"
              y="1267.5292"
              style="font-size:16.18872643px;font-family:LeagueGothic;fill:#ebf4ce">IS THE COOLEST THING</text>
 </g></g></g></g></svg>
