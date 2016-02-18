@@ -36,9 +36,9 @@
      inkscape:window-height="1017"
      id="namedview369"
      showgrid="false"
-     inkscape:zoom="2.5456121"
-     inkscape:cx="299.77978"
-     inkscape:cy="630.16276"
+     inkscape:zoom="1.5257978"
+     inkscape:cx="575.05846"
+     inkscape:cy="175.68674"
      inkscape:window-x="1358"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -248,14 +248,14 @@
            id="coffee-title"><text
              font-size="28.2251"
              id="text161"
-             x="229.13882"
-             y="404.66818"
+             x="273.05029"
+             y="394.18185"
              style="font-size:28.22509956px;font-family:LeagueGothic;fill:#ffffff">SYNTHETIC</text>
 <text
              id="text3919"
              font-size="28.2251"
-             x="250.40337"
-             y="428.47589"
+             x="294.97021"
+             y="421.92194"
              style="font-size:28.22509956px;font-family:LeagueGothic;fill:#ffffff">BIOLOGY</text>
 </g><g
            id="coffee-details"><rect
@@ -496,8 +496,8 @@
            id="design-title"><text
              font-size="28.2251"
              id="text198"
-             x="625.11029"
-             y="528.21991"
+             x="673.6095"
+             y="526.25372"
              style="font-size:28.22509956px;font-family:LeagueGothic;fill:#ffffff">PHOTONICS</text>
 </g><g
            id="design-details"><g
@@ -593,8 +593,8 @@
            id="build-title"><text
              font-size="28.2251"
              id="text272"
-             x="257.2438"
-             y="689.14893"
+             x="310.98618"
+             y="684.56116"
              style="font-size:28.22509956px;font-family:LeagueGothic;fill:#ffffff">SPACE</text>
 </g><g
            id="build-details"><g
@@ -720,14 +720,14 @@
            id="complain-title"><text
              font-size="24.3935"
              id="text240"
-             x="650.24432"
-             y="914.61029"
+             x="702.02051"
+             y="911.33331"
              style="font-size:24.39349937px;font-family:LeagueGothic;fill:#ffffff">COMPUTER</text>
 <text
              font-size="24.3935"
              id="text242"
-             x="635.83954"
-             y="941.8399"
+             x="681.71716"
+             y="937.25214"
              style="font-size:24.39349937px;font-family:LeagueGothic;fill:#ffffff">ENGINEERING</text>
 </g><g
            id="complain-details"><rect
@@ -737,8 +737,7 @@
              height="68"
              id="rect245"
              fill="none" /><g
-             id="codeicon
-"
+             id="codeicon "
              transform="translate(412.47447,235.6997)"><g
                id="g283"><path
                  d="m 288.536,781.442 c -7.41,-4.364 -14.82,-8.729 -22.229,-13.096 -4.238,-2.491 -8.476,-4.987 -12.713,-7.483 -3.251,-1.914 -2.378,-2.964 -2.378,-6.992 0,-4.028 -0.872,-5.076 2.378,-6.995 4.238,-2.502 8.476,-5.004 12.713,-7.506 7.41,-4.375 14.82,-8.75 22.229,-13.125 0,5.268 2.337,13.159 -2.585,15.964 -6.823,3.889 -13.646,7.776 -20.469,11.664 6.484,3.668 12.968,7.337 19.452,11.005 2.426,1.372 3.602,1.264 3.602,4.002 0,4.187 0,8.375 0,12.562 l 0,0 z"
@@ -817,8 +816,8 @@
            id="beer-title"><text
              font-size="28.2251"
              id="text316"
-             x="230.5811"
-             y="1111.1558"
+             x="277.11414"
+             y="1106.568"
              style="font-size:23.03798485px;font-family:LeagueGothic;fill:#ffffff">ELECTRONICS</text>
 </g><g
            id="beer-details"><g
