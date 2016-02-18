@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 7
-img: submarine.png
+img: geeks.png
 alt: image-alt
 orgname: Geeks
 orgurl : http://geeksincorporated.net
