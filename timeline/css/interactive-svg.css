@@ -555,11 +555,11 @@
   -ms-animation: grow-y 0.5s ease-in-out 1.25s;
   -o-animation: grow-y 0.5s ease-in-out 1.25s;
   animation: grow-y 0.5s ease-in-out 1.25s;
-  -webkit-transform-origin: 512px 300px;
+  /*-webkit-transform-origin: 512px 300px;
   -moz-transform-origin: 512px 300px;
   -ms-transform-origin: 512px 300px;
   -o-transform-origin: 512px 300px;
-  transform-origin: 512px 300px;
+  transform-origin: 512px 300px;*/
   -webkit-animation-fill-mode: backwards;
   -moz-animation-fill-mode: backwards;
   -ms-animation-fill-mode: backwards;
