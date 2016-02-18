@@ -36,9 +36,9 @@
      inkscape:window-height="1017"
      id="namedview369"
      showgrid="false"
-     inkscape:zoom="1.5257978"
-     inkscape:cx="575.05846"
-     inkscape:cy="963.31963"
+     inkscape:zoom="1.293352"
+     inkscape:cx="542.5598"
+     inkscape:cy="311.34624"
      inkscape:window-x="1358"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -248,14 +248,14 @@
            id="coffee-title"><text
              font-size="28.2251"
              id="text161"
-             x="313.05023"
+             x="272.84464"
              y="394.18185"
              style="font-size:28.22509956px;font-family:LeagueGothic;fill:#ffffff">SYNTHETIC</text>
 <text
              id="text3919"
              font-size="28.2251"
-             x="334.97064"
-             y="421.92194"
+             x="282.3941"
+             y="418.82919"
              style="font-size:28.22509956px;font-family:LeagueGothic;fill:#ffffff">BIOLOGY</text>
 </g><g
            id="coffee-details"><rect
@@ -267,14 +267,14 @@
              fill="none" /><text
              font-size="18"
              id="text183"
-             x="210.26906"
-             y="542.01343"
+             x="261.29926"
+             y="551.29163"
              style="font-size:18px;font-family:LeagueGothic;fill:#ceb995">DESIGNING SYNTHEIC </text>
 <text
              font-size="18"
              id="text185"
-             x="219.9153"
-             y="562.22614"
+             x="263.98682"
+             y="569.95801"
              style="font-size:18px;font-family:LeagueGothic;fill:#ceb995">BIOLOGY CAD TOOLS</text>
 <g
              transform="translate(21.435379,59.898896)"
@@ -496,8 +496,8 @@
            id="design-title"><text
              font-size="28.2251"
              id="text198"
-             x="713.60962"
-             y="526.25372"
+             x="668.76489"
+             y="522.38782"
              style="font-size:28.22509956px;font-family:LeagueGothic;fill:#ffffff">PHOTONICS</text>
 </g><g
            id="design-details"><g
@@ -558,14 +558,14 @@
              fill="none" /><text
              font-size="18"
              id="text203"
-             x="606.60382"
-             y="662.05756"
+             x="654.54126"
+             y="664.37714"
              style="font-size:18px;font-family:LeagueGothic;fill:#e8ad67">BENDING LIGHT TO DO</text>
 <text
              font-size="18"
              id="text205"
-             x="610.54419"
-             y="683.65918"
+             x="653.06934"
+             y="686.75189"
              style="font-size:18px;font-family:LeagueGothic;fill:#e8ad67">REALLY COOL THINGS</text>
 </g></g></g><g
        id="build"><rect
@@ -593,8 +593,8 @@
            id="build-title"><text
              font-size="28.2251"
              id="text272"
-             x="350.98624"
-             y="684.56116"
+             x="285.26553"
+             y="685.33435"
              style="font-size:28.22509956px;font-family:LeagueGothic;fill:#ffffff">SPACE</text>
 </g><g
            id="build-details"><g
@@ -685,15 +685,15 @@
              fill="none" /><text
              font-size="18"
              id="text277"
-             x="213.83896"
-             y="847.38647"
-             style="font-size:14.87564373px;font-family:LeagueGothic;fill:#ebf4ce">DESIGNING SPACECRAFT</text>
+             x="243.74643"
+             y="848.87341"
+             style="font-size:21.03799438px;font-family:LeagueGothic;fill:#ebf4ce">DESIGNING SPACECRAFT</text>
 <text
              font-size="18"
              id="text279"
-             x="272.72192"
-             y="875.28412"
-             style="font-size:13.82879257px;font-family:LeagueGothic;fill:#ebf4ce">SYSTEMS</text>
+             x="278.75861"
+             y="872.90021"
+             style="font-size:22.06535721px;font-family:LeagueGothic;fill:#ebf4ce">SYSTEMS</text>
 </g></g></g><g
        id="complain"><rect
          x="505.545"
@@ -720,14 +720,14 @@
            id="complain-title"><text
              font-size="24.3935"
              id="text240"
-             x="742.02026"
-             y="911.33331"
+             x="684.80463"
+             y="908.2406"
              style="font-size:24.39349937px;font-family:LeagueGothic;fill:#ffffff">COMPUTER</text>
 <text
              font-size="24.3935"
              id="text242"
-             x="721.7168"
-             y="937.25214"
+             x="677.64526"
+             y="934.15942"
              style="font-size:24.39349937px;font-family:LeagueGothic;fill:#ffffff">ENGINEERING</text>
 </g><g
            id="complain-details"><rect
@@ -781,15 +781,15 @@
                style="fill:#b0e2de" /></g><text
              font-size="18"
              id="text247"
-             x="608.84436"
-             y="1055.2059"
-             style="font-size:12.04058075px;font-family:LeagueGothic;fill:#b9e4ea">MOBILE APPS, SOCIAL NETWORKS,</text>
+             x="624.85016"
+             y="1058.722"
+             style="font-size:17.81224632px;font-family:LeagueGothic;fill:#b9e4ea">FROM MOBILE APPS, SOCIAL NETWORKS,</text>
 <text
              font-size="18"
              id="text249"
-             x="647.37592"
-             y="1078.1506"
-             style="font-size:13.85030746px;font-family:LeagueGothic;fill:#b9e4ea">FLIGHT COMPUTERS</text>
+             x="647.2569"
+             y="1081.5685"
+             style="font-size:18.44931602px;font-family:LeagueGothic;fill:#b9e4ea">.....  TO FLIGHT COMPUTERS</text>
 </g></g></g><g
        id="beer"><rect
          x="505.545"
@@ -816,9 +816,9 @@
            id="beer-title"><text
              font-size="28.2251"
              id="text316"
-             x="311.19467"
-             y="1106.568"
-             style="font-size:23.03798485px;font-family:LeagueGothic;fill:#ffffff">ELECTRONICS</text>
+             x="264.55469"
+             y="1105.0026"
+             style="font-size:29.25468445px;font-family:LeagueGothic;fill:#ffffff">ELECTRONICS</text>
 </g><g
            id="beer-details"><g
              transform="matrix(0.40799101,0,0,0.40799101,192.93488,1053.8411)"
@@ -1284,13 +1284,13 @@
                  d="m 318.4,419.56 c 3.77,-1.35 7.84,-0.5 11.73,-0.21 -5.78,6.16 -12.28,11.66 -17.57,18.27 -4.04,0.05 -8.08,0.07 -12.12,0.03 3.73,-4.68 8.35,-8.5 12.4,-12.88 1.78,-1.8 3.43,-3.8 5.56,-5.21 z" /></g></g><text
              font-size="18"
              id="text321"
-             x="295.08917"
-             y="1248.8433"
-             style="font-size:18px;font-family:LeagueGothic;fill:#ebf4ce">BUILDING HARDWARE</text>
+             x="257.93994"
+             y="1263.208"
+             style="font-size:21.72311592px;font-family:LeagueGothic;fill:#ebf4ce">ANALOG | DIGITAL</text>
 <text
-             font-size="18"
-             id="text323"
-             x="290.59006"
-             y="1267.5292"
-             style="font-size:16.18872643px;font-family:LeagueGothic;fill:#ebf4ce">IS THE COOLEST THING</text>
+             style="font-size:21.72311592px;font-family:LeagueGothic;fill:#ebf4ce"
+             y="1287.9498"
+             x="265.67178"
+             id="text3702"
+             font-size="18">EMBEDDED | RF</text>
 </g></g></g></g></svg>
