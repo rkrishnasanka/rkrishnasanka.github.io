@@ -1,8 +1,9 @@
 ---
 layout: default
-modal-id: 6
+modal-id: 4
 date: 2014-07-15
-img: submarine.png
+img: game.png
+title: Electronics and Communications Engineering
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

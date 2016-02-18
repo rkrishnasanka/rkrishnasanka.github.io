@@ -1,9 +1,10 @@
 ---
 layout: default
-modal-id: 6
-date: 2014-07-15
-img: submarine.png
+modal-id: 2
+date: 2014-07-17
+img: cake.png
 alt: image-alt
+title: Space
 project-date: April 2014
 client: Start Bootstrap
 category: project
