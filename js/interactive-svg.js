@@ -1,6 +1,6 @@
 $(function(){
 
-	$("#stage").load('./img/interactive.svg',function(response){
+	$("#stage").load('/img/interactive.svg',function(response){
 
 		$(this).addClass("svgLoaded");
 
