@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: project
 modal-id: 1
 date: 2014-07-18
 img: cabin.png
 alt: image-alt
 title: Cloud Scrubs
+link :
 category: project
 description: Cloud Scrubs aims to connect rural health centers to a central system to mine the health data and allow governments to take proactive steps to avoid, reduce medical conditions in a population.
 
