@@ -11,10 +11,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
+                        {% if post.category=="project" %}
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <img src="/img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
@@ -32,6 +33,27 @@
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
+                        {% else %}
+                        <div class="modal-body">
+                            <h2>{{ post.orgname }}</h2>
+                            <hr class="star-primary">
+                            <img src="/img/organizations/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <p>{{ post.description }}</p>
+                            <ul class="list-inline item-details">
+                                <li>Role:
+                                    <strong>
+                                        {{ post.role }}
+                                    </strong>
+                                </li>
+                                <li>Link:
+                                    <strong>
+                                        <a href="{{ post.orgurl }}">{{ post.orgurl }}</a>
+                                    </strong>
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                        {% endif %}
                     </div>
                 </div>
             </div>
