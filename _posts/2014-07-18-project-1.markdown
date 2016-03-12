@@ -17,3 +17,7 @@ The initial implementation was a proof of concept system that used a cloud based
 1. Future implementations will try to build a standard Data API for querying and accessing the data that is generated at these health centers.
 2. A distributed network that can archive and serve data that is generated.
 3. Any easy to use SDK that can be used to create the data entry forms quickly and automatically create a data sharing and archiving network for that data.
+
+##References
+1. Imagine Cup Presentation [PPT](http://bit.ly/cloudscrubsppt) [PDF](http://bit.ly/cloudscrubspdf).
+2. [Github Repository](https://github.com/cloudscrubs).
