@@ -4,8 +4,20 @@
     <body id="page-top" class="index">
     {% include nav.html %}
 
-    <section>
-      {{ content }}
+    <section id="project">
+      <div class="container">
+
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>{{ title }}</h2>
+                <hr class="star-secondary">
+            </div>
+        </div>
+        <div class="row">
+          {{ content }}
+        </div>
+      </div>
+
     </section>
 
     {% include footer.html %}
