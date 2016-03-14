@@ -1,12 +1,19 @@
 ---
 layout: project
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+date: 2014-07-18
+img: cabin.png
 alt: image-alt
-project-date: April 2014
-link :
+title: Dubizzle
+link : https://github.com/rkrishnasanka/Dubizzle
 category: project
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: This is an unofficial Windows Phone 7 Application for the popular online marketplace Dubizzle.
 
 ---
+#Dubizzle
+
+Dubizzle was one of the most tedious website reverse engineering task that I took upon. Since Dubizzle did not provide an API that was usable I reverse engineered the site and the parsed all the data and the posts shown on the website. It was also my first attempt to create never before seen Windows Phone UX paradigms. Some of the fun things that happened along the way were that I figured out a couple of security gaps in their prototype services in 2012 (which they fixed after I notified them). Unfortunately I had to take down the app because they considered it to be copyright infringement. But alas it ended up getting a lot of downloads and it was overall a fun project. Since I did take down the app I decided to make it code base [open source](http://github.com/rkrishnasanka/Dubizzle) incase someone wants to check out all the cool things that were going on in the app.
+
+##Credits
+
+I had a ton of help from [@vprashant1](https://twitter.com/vprashant1) and [@TareqAteik](https://twitter.com/TareqAteik) for all the help during the parsing madness that made me want to pull my hair out. 

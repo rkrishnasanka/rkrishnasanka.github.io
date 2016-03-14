@@ -1,12 +1,24 @@
 ---
 layout: project
 modal-id: 6
-date: 2014-07-15
-img: submarine.png
+date: 2014-07-18
+img: cabin.png
 alt: image-alt
-project-date: April 2014
-link : 
+title: Analog VLSI
+link :
 category: project
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: This is the collection of Analog VLSI Designs created in EC580
 
 ---
+#Analog VLSI
+
+##OpAmp
+
+##Resources
+
+1. EC567 Presentation on Slot Waveguides [PPT]() [PDF]().
+2. EC567 Final Presentation Follow Up report [PDF]()
+3. Fundamentals of Contradirectional Couplers
+4. ??
+5. edX Final Paper.
+6. Numerical Workbench used for EC567 and EC770 [Github]().
