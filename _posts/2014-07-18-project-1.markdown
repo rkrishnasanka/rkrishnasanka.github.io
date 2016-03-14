@@ -10,7 +10,7 @@ category: project
 description: Cloud Scrubs aims to connect rural health centers to a central system to mine the health data and allow governments to take proactive steps to avoid, reduce medical conditions in a population.
 
 ---
-#Cloud Scrubs
+# Cloud Scrubs
 
 Cloud Scrubs was my team's Imagine Cup 2012 entry. The project was selected as a national finalist in the UAE region. The project aimed to connect rural health centers sharing the patient information with the government and enable the mining of information that could be used identify patterns and manage logistics.
 
@@ -20,12 +20,12 @@ The initial implementation was a proof of concept system that used a cloud based
 2. A distributed network that can archive and serve data that is generated.
 3. Any easy to use SDK that can be used to create the data entry forms quickly and automatically create a data sharing and archiving network for that data.
 
-##References
+## References
 
 1. Imagine Cup Presentation [PPT](http://bit.ly/cloudscrubsppt) [PDF](http://bit.ly/cloudscrubspdf).
 2. [Github Repository](https://github.com/cloudscrubs).
 
-##Collaborators
+## Collaborators
 
 1. [Prashant Vaidyanathan](https://twitter.com/vprashant1)
 2. [Sweekriti Sathpathy](https://twitter.com/SweekritiS)

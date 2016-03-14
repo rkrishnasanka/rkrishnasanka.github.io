@@ -12,7 +12,7 @@ description: This is a compilation of some of the MEMS sensors I helped analyzed
 ---
 #MEMS Sensors
 
-##References
+##Resources
 
 1. EC??? Presentation [PPT]() [PDF]().
 2. COMSOL Design Files []().
