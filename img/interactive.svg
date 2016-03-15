@@ -32,14 +32,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      id="namedview369"
      showgrid="false"
-     inkscape:zoom="0.42091688"
-     inkscape:cx="350.19916"
-     inkscape:cy="1173.7868"
-     inkscape:window-x="-8"
+     inkscape:zoom="0.54815895"
+     inkscape:cx="598.10655"
+     inkscape:cy="717.60916"
+     inkscape:window-x="1358"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="InteractiveSVG" /><g
@@ -1293,16 +1293,4 @@
              x="265.67178"
              id="text3702"
              font-size="18">EMBEDDED | RF</text>
-</g></g></g></g><text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:LeagueGothic;-inkscape-font-specification:LeagueGothic;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="143.15562"
-     y="202.21509"
-     id="text3703"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan3705"
-       x="143.15562"
-       y="202.21509"
-       style="font-size:180px;fill:#d40000">LEARNING TREE</tspan></text>
-</svg>
+</g></g></g></g></svg>
