@@ -30,7 +30,6 @@ simple protocol thats easy to grasp. And what makes it even more easier is the [
 tedious time keeping, clock signal generation and sychnronization hassels and just focus on talking to the Nunchuk.
 
 ###Baby Steps - (Talking to the Nunchuk)
---------------------
 
 The process of getting the data from the Nunchuk follows the process shown in the below diagram:
 
@@ -40,7 +39,6 @@ The communication with the Nunchuk is initiated by sending a Handshake message t
 each time we want the latest Gamepad state.
 
 ###WTFH do those bytes mean ? - (Data Structure)
---------------------
 
 The one rule of thumb when working with game controllers:
 
@@ -67,7 +65,6 @@ of the acceleration values (X,Y,Z - Axes) into the 6th Byte.
 The various fields described in the Nunchuk.h show how the data from these bytes are extracted used to represent the states of the controller.
 
 ###Wires ! Wires ! Wires ! - The Pin Mapping
--------------------
 
 No matter how much we code the most important part of any hardware project is the getting the connections right. As the I2C prococol only uses
 The Nunchuk's Pins are described by the following diagram.
