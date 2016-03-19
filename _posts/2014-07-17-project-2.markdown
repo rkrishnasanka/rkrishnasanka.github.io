@@ -2,7 +2,7 @@
 layout: project
 modal-id: 2
 date: 2014-07-18
-img: cabin.png
+img: dubizzle.png
 alt: image-alt
 title: Dubizzle
 link : https://github.com/rkrishnasanka/Dubizzle
