@@ -20,9 +20,8 @@ description: This is the collection of Photonics Review Papers and Presentations
 
 ##Resources
 
-1. EC567 Presentation on Slot Waveguides [PPT]() [PDF]().
-2. EC567 Final Presentation Follow Up report [PDF]()
-3. Fundamentals of Contradirectional Couplers
-4. ??
-5. edX Final Paper.
-6. Numerical Workbench used for EC567 and EC770 [Github]().
+1. EC567 Presentation on Slot Waveguides [PPT](/resources/02_Sanka.pptx) [PDF](/resources/02_Sanka.pdf) [Follow Up report PDF](/resources/02_Sanka_followup.pdf).
+2. [Fundamentals of Contra-Directional Bragg Grating Coupler](https://www.academia.edu/13126127/Fundamentals_of_Contra-Directional_Bragg_Grating_Coupler).
+3. [Investigation of ITO Si Stop Light Effect](https://www.academia.edu/13126141/Investigation_of_ITO_Si_ITO_Stop_Light_Effect).
+4. edX UBCXPhot1 Final Paper [PDF](/resources/EBeam_rkrishnasanka_final.pdf).
+5. MATLAB Numerical Workbench used for EC567 and EC770 [Github](https://github.com/rkrishnasanka/Photonics).
