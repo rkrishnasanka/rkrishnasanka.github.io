@@ -10,15 +10,8 @@ category: project
 description: This is the collection of Analog VLSI Designs created in EC580
 
 ---
-#Analog VLSI
+# Analog VLSI
 
-##OpAmp
+## OpAmp
 
-##Resources
-
-1. EC567 Presentation on Slot Waveguides [PPT]() [PDF]().
-2. EC567 Final Presentation Follow Up report [PDF]()
-3. Fundamentals of Contradirectional Couplers
-4. ??
-5. edX Final Paper.
-6. Numerical Workbench used for EC567 and EC770 [Github]().
+## Resources

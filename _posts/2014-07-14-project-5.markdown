@@ -2,26 +2,30 @@
 layout: project
 modal-id: 5
 date: 2014-07-18
-img: cabin.png
+img: photonics.png
 alt: image-alt
 title: Photonics Coursework Projects
 link :
 category: project
-description: This is the collection of Photonics Review Papers and Presentations that were made in EC770 and EC567 at BU.
+description: This is the collection of Photonics Review Papers and Presentations that were made in EC770 and EC568 at BU.
 
 ---
-#Photonics
+# Photonics
 
-##EC567
+## EC568
 
-##EC770
+EC568 Presentation on Slot Waveguides [PPT](/resources/02_Sanka.pptx) [PDF](/resources/02_Sanka.pdf) [Follow Up report PDF](/resources/02_Sanka_followup.pdf).
 
-##edX UBCXPhot1??
+## EC770
 
-##Resources
+- [Fundamentals of Contra-Directional Bragg Grating Coupler](https://www.academia.edu/13126127/Fundamentals_of_Contra-Directional_Bragg_Grating_Coupler).
+- [Investigation of ITO Si Stop Light Effect](https://www.academia.edu/13126141/Investigation_of_ITO_Si_ITO_Stop_Light_Effect).
 
-1. EC567 Presentation on Slot Waveguides [PPT](/resources/02_Sanka.pptx) [PDF](/resources/02_Sanka.pdf) [Follow Up report PDF](/resources/02_Sanka_followup.pdf).
-2. [Fundamentals of Contra-Directional Bragg Grating Coupler](https://www.academia.edu/13126127/Fundamentals_of_Contra-Directional_Bragg_Grating_Coupler).
-3. [Investigation of ITO Si Stop Light Effect](https://www.academia.edu/13126141/Investigation_of_ITO_Si_ITO_Stop_Light_Effect).
-4. edX UBCXPhot1 Final Paper [PDF](/resources/EBeam_rkrishnasanka_final.pdf).
-5. MATLAB Numerical Workbench used for EC567 and EC770 [Github](https://github.com/rkrishnasanka/Photonics).
+## edX UBCXPhot1X
+
+- edX UBCXPhot1 Final Paper [PDF](/resources/EBeam_rkrishnasanka_final.pdf).
+
+## Resources
+
+
+1. MATLAB Numerical Workbench used for EC567 and EC770 [Github](https://github.com/rkrishnasanka/Photonics).

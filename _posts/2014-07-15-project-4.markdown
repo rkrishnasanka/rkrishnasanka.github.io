@@ -2,17 +2,17 @@
 layout: project
 modal-id: 4
 date: 2014-07-18
-img: cabin.png
+img: comsol.png
 alt: image-alt
-title: MEMS Sensors
+title: COMSOL Projects
 link :
 category: project
 description: This is a compilation of some of the MEMS sensors I helped analyzed as a part of my coursework.
 
 ---
-#MEMS Sensors
+# MEMS Sensors
 
-##Resources
+## Resources
 
 1. EC??? Presentation [PPT]() [PDF]().
 2. COMSOL Design Files []().
