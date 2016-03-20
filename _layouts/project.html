@@ -30,8 +30,9 @@
             {% for post in site.posts %}
             {% if post.category == "project" %}
             <div class="row">
+              <a href="{{ post.url }}">
               <img src="/img/portfolio/{{ post.img }}" alt="" height="30px" class="img-rounded">
-              <a href="{{ post.url }}">{{ post.title }}</a>
+              {{ post.title }}</a>
             </div>
             {% endif %}
             {% endfor %}
