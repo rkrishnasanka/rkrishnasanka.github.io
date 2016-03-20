@@ -28,10 +28,12 @@
               Navigation
             </div>
             {% for post in site.posts %}
+            {% if post.category == "project" %}
             <div class="row">
-              <img src="{{ post.img }}" alt="" height="30px" class="img-rounded">
-              {{ post.title }}
+              <img src="/img/portfolio/{{ post.img }}" alt="" height="30px" class="img-rounded">
+              <a href="{{ post.url }}">{{ post.title }}</a>
             </div>
+            {% endif %}
             {% endfor %}
           </div>
           <div class="col-lg-8">
