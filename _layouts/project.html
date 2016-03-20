@@ -24,6 +24,15 @@
             <div class="row">
               {{ page.img }}
             </div>
+            <div class="row">
+              Navigation
+            </div>
+            {% for post in site.posts %}
+            <div class="row">
+              <img src="{{ post.img }}" alt="" height="30px" class="img-rounded">
+              {{ post.title }}
+            </div>
+            {% endfor %}
           </div>
           <div class="col-lg-8">
             {{ content }}
