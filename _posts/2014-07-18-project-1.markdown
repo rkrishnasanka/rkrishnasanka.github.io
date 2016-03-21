@@ -22,7 +22,7 @@ The initial implementation was a proof of concept system that used a cloud based
 
 ## References
 
-1. Imagine Cup Presentation [PPT](http://bit.ly/cloudscrubsppt) [PDF](http://bit.ly/cloudscrubspdf).
+1. Imagine Cup Presentation [PPT](/resources/Cloud_Scrubs_Presentation.pptx) [PDF](/resources/Cloud_Scrubs_Presentation.pdf).
 2. [Github Repository](https://github.com/cloudscrubs).
 
 ## Collaborators
