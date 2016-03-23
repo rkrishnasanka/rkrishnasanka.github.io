@@ -16,7 +16,9 @@ Cloud Scrubs was my team's Imagine Cup 2012 entry. The project was selected as a
 
 The initial implementation was a proof of concept system that used a cloud based distributed architecture. Future revision would iterate on this distributed architecture. The vision of this project remains to connect remote health centers and democratize the knowledge generated at these health centers.
 
-1. Future implementations will try to build a standard Data API for querying and accessing the data that is generated at these health centers.
+## Future Work
+
+1. Future implementations will try to build a generic Data API for querying and accessing the data that is generated at these health centers.
 2. A distributed network that can archive and serve data that is generated.
 3. Any easy to use SDK that can be used to create the data entry forms quickly and automatically create a data sharing and archiving network for that data.
 
