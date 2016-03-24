@@ -32,3 +32,7 @@ The initial implementation was a proof of concept system that used a cloud based
 1. [Prashant Vaidyanathan](https://twitter.com/vprashant1)
 2. [Sweekriti Sathpathy](https://twitter.com/SweekritiS)
 3. [Ashok Vydyanathan](https://twitter.com/ashoksv)
+
+## Links
+
+[BBC Arabic Interview](https://youtu.be/i-_MkEEjw64?list=WL&t=677)
