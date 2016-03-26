@@ -12,21 +12,12 @@
                 {% for post in site.posts %}
                 {% if post.category == "learning" %}
                 <div class="row">
-                    <div class="col-sm-4">
-
-                        <img src="/img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
-
-                    </div>
-                    <div class="col-md-8">
-
-                        <p>
-                          {{ post.description}}
-                        </p>
-                        <a href="{{ post.url }}">More Info</a>
-
-                    </div>
+                    <p>
+                      {{ post.description}}
+                    </p>
+                    <a href="{{ post.url }}">More Info</a>
                   </div>
-                  {% endif %}
+                {% endif %}
                 {% endfor %}
 
         </div>
