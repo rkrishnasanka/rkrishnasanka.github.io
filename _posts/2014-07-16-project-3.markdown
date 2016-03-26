@@ -2,7 +2,7 @@
 layout: project
 modal-id: 3
 date: 2014-07-18
-img: cabin.png
+img: arduinonunchuk.png
 alt: image-alt
 title: Arduino Nunchuck
 link : https://github.com/rkrishnasanka/ArduinoNunchuk
