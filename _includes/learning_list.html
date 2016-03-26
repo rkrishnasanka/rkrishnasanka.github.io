@@ -17,7 +17,7 @@
                   <hr>
                 </div>
                 {% for post in site.posts %}
-                {% if post.subcategory == "minibook" %}
+
                 <div class="row">
                     <p>
                       {{ post.title }}
@@ -27,7 +27,7 @@
                     </p>
                     <a href="{{ post.url }}">More Info</a>
                 </div>
-                {% endif %}
+
                 {% endfor %}
               </div>
               <div class="col-lg-4 text-center">
@@ -52,14 +52,14 @@
                   <hr>
                 </div>
                 {% for post in site.posts %}
-                {% if post.subcategory == "repository" %}
+
                 <div class="row">
                     <p>
                       {{ post.title }}
                     </p>
                     <a href="{{ post.link }}">More Info</a>
                 </div>
-                {% endif %}
+                
                 {% endfor %}
               </div>
             </div>
