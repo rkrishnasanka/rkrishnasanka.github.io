@@ -17,7 +17,7 @@
                   <hr>
                 </div>
                 {% for post in site.posts %}
-                {% if post.subcategory == "minibook" %}
+                {% if post.category == "minibook" %}
                 <div class="row">
                     <p>
                       {{ post.title }}
@@ -36,7 +36,7 @@
                   <hr>
                 </div>
                 {% for post in site.posts %}
-                {% if post.subcategory == "article" %}
+                {% if post.category == "learningarticle" %}
                 <div class="row">
                     <p>
                       {{ post.title }}
@@ -52,7 +52,7 @@
                   <hr>
                 </div>
                 {% for post in site.posts %}
-                {% if post.subcategory == "repository" %}
+                {% if post.category == "repository" %}
                 <div class="row">
                     <p>
                       {{ post.title }}
