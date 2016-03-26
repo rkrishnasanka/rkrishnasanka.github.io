@@ -17,7 +17,6 @@
           <hr>
         </div>
         {% for post in site.posts %}
-        {% if post.category == "learning" %}
         {% if post.subcategory == "minibook" %}
         <div class="row">
             <p>
@@ -29,7 +28,6 @@
             <a href="{{ post.url }}">More Info</a>
         </div>
         {% endif %}
-        {% endif %}
         {% endfor %}
       </div>
     </section>
@@ -40,7 +38,6 @@
           <hr>
         </div>
         {% for post in site.posts %}
-        {% if post.category == "learning" %}
         {% if post.subcategory == "article" %}
         <div class="row">
             <p>
@@ -48,7 +45,6 @@
             </p>
             <a href="{{ post.url }}">More Info</a>
         </div>
-        {% endif %}
         {% endif %}
         {% endfor %}
       </div>
@@ -60,7 +56,6 @@
           <hr>
         </div>
         {% for post in site.posts %}
-        {% if post.category == "learning" %}
         {% if post.subcategory == "repository" %}
         <div class="row">
             <p>
@@ -68,7 +63,6 @@
             </p>
             <a href="{{ post.link }}">More Info</a>
         </div>
-        {% endif %}
         {% endif %}
         {% endfor %}
       </div>
