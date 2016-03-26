@@ -454,3 +454,7 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+.krishna_nav_item {
+  padding : 25px;
+}
