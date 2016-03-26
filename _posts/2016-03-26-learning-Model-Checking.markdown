@@ -1,7 +1,6 @@
 ---
 layout: learning
-category: learning
-subcategory: article
+category: learningarticle
 title: Model Checking
 description:
 
