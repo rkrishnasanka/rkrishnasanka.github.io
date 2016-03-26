@@ -8,17 +8,59 @@
                     <hr class="star-secondary">
                 </div>
             </div>
-
-                {% for post in site.posts %}
-                {% if post.category == "learning" %}
-                <div class="row">
-                    <p>
-                      {{ post.description}}
-                    </p>
-                    <a href="{{ post.url }}">More Info</a>
-                  </div>
-                {% endif %}
-                {% endfor %}
-
         </div>
+    </section>
+    <section id="minibook">
+      <div class="row">
+        <h3>Minibooks</h3>
+        <hr>
+      </div>
+      {% for post in site.posts %}
+      {% if post.category == "learning" %}
+      {% if post.subcategory == "minibook" %}
+      <div class="row">
+          <p>
+            {{ post.title }}
+          </p>
+          <a href="{{ post.url }}">More Info</a>
+      </div>
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+    </section>
+    <section id="minibook">
+      <div class="row">
+        <h3>Articles</h3>
+        <hr>
+      </div>
+      {% for post in site.posts %}
+      {% if post.category == "learning" %}
+      {% if post.subcategory == "article" %}
+      <div class="row">
+          <p>
+            {{ post.title }}
+          </p>
+          <a href="{{ post.url }}">More Info</a>
+      </div>
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+    </section>
+    <section id="minibook">
+      <div class="row">
+        <h3>Repositories</h3>
+        <hr>
+      </div>
+      {% for post in site.posts %}
+      {% if post.category == "learning" %}
+      {% if post.subcategory == "repository" %}
+      <div class="row">
+          <p>
+            {{ post.title }}
+          </p>
+          <a href="{{ post.link }}">More Info</a>
+      </div>
+      {% endif %}
+      {% endif %}
+      {% endfor %}
     </section>
