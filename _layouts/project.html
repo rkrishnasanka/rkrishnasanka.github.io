@@ -16,17 +16,16 @@
         <div class="row">
           <div class="col-lg-4">
             <div class="row">
-              {{ page.title }}
+              Project Link : <a href="{{ page.link }}">{{ page.link }}</a>
             </div>
             <div class="row">
-              <a href="{{ page.link }}">{{ page.link }}</a>
+              <img src="/img/portfolio/{{ page.img }}" height="200px">
             </div>
-            <div class="row">
-              <img src="/img/portfolio/{{ page.img }}">
-            </div>
+            <br/>
             <div class="row">
               Navigation
             </div>
+            <br/>
             {% for post in site.posts %}
             {% if post.category == "project" %}
             <div class="row">
