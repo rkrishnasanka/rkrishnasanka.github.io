@@ -3,7 +3,8 @@
     {% include head.html %}
     <body id="page-top" class="index">
     {% include nav.html %}
-
+    <br />
+    <br />
     <section id="project">
       <div class="container">
 
@@ -16,14 +17,15 @@
         <div class="row">
           <div class="col-lg-4">
             <div class="row">
-              Project Link : <a href="{{ page.link }}">{{ page.link }}</a>
-            </div>
-            <div class="row">
               <img src="/img/portfolio/{{ page.img }}" height="200px">
             </div>
             <br/>
             <div class="row">
-              Navigation
+              Project Link : <a href="{{ page.link }}">{{ page.link }}</a>
+            </div>
+            <br />
+            <div class="row">
+              <h6>Other Projects</h6>
             </div>
             <br/>
             {% for post in site.posts %}
