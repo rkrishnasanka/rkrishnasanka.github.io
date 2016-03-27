@@ -1,5 +1,5 @@
 ---
-layout: learning
+layout: article
 category: minibook
 title: Building Spacecraft Communications
 link: https://www.gitbook.com/book/rkrishnasanka/ece-coursework/details

@@ -1,5 +1,5 @@
 ---
-layout: learning
+layout: article
 category: repository
 title: OpenCV
 link: https://github.com/rkrishnasanka/OpenCV

@@ -1,5 +1,5 @@
 ---
-layout: learning
+layout: article
 category: learningarticle
 title: Model Checking
 description:

@@ -1,5 +1,5 @@
 ---
-layout: learning
+layout: article
 category: minibook
 title: ECE Courseware
 link: https://www.gitbook.com/book/rkrishnasanka/building-spacecraft-communications/details

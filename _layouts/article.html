@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body id="page-top" class="index">
+    {% include nav.html %}
+    <br />
+    <br />
+    <section id="project">
+      <div class="container">
+
+        <div class="row">
+            <div class="col-lg-8 text-center">
+                <h2>{{ page.title }}</h2>
+                <hr class="star-secondary">
+            </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-4">
+            <div class="row">
+              <img src="/img/portfolio/{{ page.img }}" height="200px">
+            </div>
+            <br/>
+            <div class="row">
+              Project Link : <a href="{{ page.link }}">{{ page.link }}</a>
+            </div>
+            <br />
+            <div class="row">
+              <h6>Other Pages</h6>
+            </div>
+            <br/>
+            {% for post in site.posts %}
+            {% if post.category == page.category %}
+            <div class="row krishna_nav_item">
+              <a href="{{ post.url }}">{{ post.title }}</a>
+            </div>
+            {% endif %}
+            {% endfor %}
+          </div>
+          <div class="col-lg-8 krishna_project_content">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+    {% include footer.html %}
+    {% include modals.html %}
+    {% include js.html %}
+    </body>
+</html>
