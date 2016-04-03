@@ -47,7 +47,7 @@ address:
   - line: Boston, USA
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Website deisgn based on <a href="http://startbootstrap.com/template-overviews/freelancer/">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
