@@ -468,5 +468,5 @@ footer .footer-below {
 }
 
 .krishna_header_link > h2 {
-  color: white;
+  color: white; !important
 }
