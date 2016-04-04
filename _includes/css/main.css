@@ -467,6 +467,9 @@ footer .footer-below {
   font-size: 20pt;
 }
 
-.krishna_header_link > h2 {
+.krishna_header_link {
   color: white; !important
+  text-transform: uppercase;
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 700;
 }
