@@ -466,3 +466,7 @@ footer .footer-below {
 .krishna_project_content > h2 {
   font-size: 20pt;
 }
+
+.krishna_header_link > h2 {
+  color: white;
+}
