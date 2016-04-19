@@ -12,14 +12,22 @@ description: This is the collection of Photonics Review Papers and Presentations
 ---
 # Photonics
 
+## EC560
+
+- Class Notes [PDF](/resources/notes/EC560.pdf)
+
 ## EC568
 
-EC568 Presentation on Slot Waveguides [PPT](/resources/02_Sanka.pptx) [PDF](/resources/02_Sanka.pdf) [Follow Up report PDF](/resources/02_Sanka_followup.pdf).
+- Class Notes [PDF](/resources/notes/EC568.pdf)
+- Presentation on Slot Waveguides [PPT](/resources/02_Sanka.pptx) [PDF](/resources/02_Sanka.pdf) [Follow Up report PDF](/resources/02_Sanka_followup.pdf).
+- [Slot Waveguides Simulation Files](/resources/simulations/EC568.zip)
 
 ## EC770
 
+- Class Notes [PDF](/resources/notes/EC770.pdf)
 - [Fundamentals of Contra-Directional Bragg Grating Coupler](https://www.academia.edu/13126127/Fundamentals_of_Contra-Directional_Bragg_Grating_Coupler).
 - [Investigation of ITO Si Stop Light Effect](https://www.academia.edu/13126141/Investigation_of_ITO_Si_ITO_Stop_Light_Effect).
+- [Simulation Files](/resources/simulations/EC770.zip)
 
 ## edX UBCXPhot1X
 
@@ -27,5 +35,4 @@ EC568 Presentation on Slot Waveguides [PPT](/resources/02_Sanka.pptx) [PDF](/res
 
 ## Resources
 
-
-1. MATLAB Numerical Workbench used for EC567 and EC770 [Github](https://github.com/rkrishnasanka/Photonics).
+- MATLAB Numerical Workbench used for EC568 and EC770 [Github](https://github.com/rkrishnasanka/Photonics).
