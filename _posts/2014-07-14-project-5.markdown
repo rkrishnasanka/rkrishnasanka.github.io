@@ -4,7 +4,7 @@ modal-id: 5
 date: 2014-07-18
 img: photonics.png
 alt: image-alt
-title: Photonics Coursework Projects
+title: Photonics and Optoelectronics
 link :
 category: project
 description: This is the collection of Photonics Review Papers and Presentations that were made in EC770 and EC568 at BU.
