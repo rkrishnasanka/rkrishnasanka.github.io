@@ -12,7 +12,7 @@ description: This is a MEMS based Weight sensor analyzed using COMSOL.
 ---
 # MEMS Mass Sensor
 
-This MEMS Weight sensor is was analyzed as a part of the the MS526 Final Project. The design of this sensor was based on the paper "Enhanced Sensitivity of Mass Detection using the First Torsional Mode of Microcantilevers" [PDF](http://www.isir.upmc.fr/files/mst_2008.pdf).
+This MEMS mass sensor is was analyzed as a part of the the MS526 Final Project. The design of this sensor was based on the paper "Enhanced Sensitivity of Mass Detection using the First Torsional Mode of Microcantilevers" [PDF](http://www.isir.upmc.fr/files/mst_2008.pdf).
 
 ## Resources
 
