@@ -31,7 +31,9 @@ description: This is the collection of Photonics Review Papers and Presentations
 
 ## edX UBCXPhot1X
 
-- edX UBCXPhot1 Final Paper [PDF](/resources/EBeam_rkrishnasanka_final.pdf).
+- edX UBCXPhot1 Final Paper [PDF](/resources/EBeam_rkrishnasanka_final.pdf)
+- [Simulations](/resources/simulations/Phot1.zip)
+- [Layouts](/resources/designs/EBeam_rkrishnasanka_final.gds)
 
 ## Resources
 
