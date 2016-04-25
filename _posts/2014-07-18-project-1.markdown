@@ -40,4 +40,4 @@ The initial implementation was a proof of concept system that used a cloud based
 
 ## Signup
 
-<iframe src="https://docs.google.com/forms/d/1CYE_3pxjd-GpvOvWFkJqu_-lsl9-b4gQmqq1IDbtPvU/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+[Signup for BITS Dubai](http://goo.gl/forms/oEoFXalfHI)
