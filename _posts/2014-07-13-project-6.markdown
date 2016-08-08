@@ -2,7 +2,7 @@
 layout: project
 modal-id: 6
 date: 2014-07-18
-img: cabin.png
+img: analog.png
 alt: image-alt
 title: Analog VLSI
 link :
