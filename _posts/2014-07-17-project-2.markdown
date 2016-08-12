@@ -1,6 +1,6 @@
 ---
 layout: project
-modal-id: 2
+modal-id: p2
 date: 2014-07-18
 img: dubizzle.png
 alt: image-alt

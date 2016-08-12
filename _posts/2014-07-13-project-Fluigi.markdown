@@ -1,6 +1,6 @@
 ---
 layout: project
-modal-id: 8
+modal-id: p8
 date: 2014-07-18
 img: microfluidics.png
 alt: image-alt

@@ -1,6 +1,6 @@
 ---
 layout: project
-modal-id: 7
+modal-id: p7
 date: 2014-07-18
 img: quantum.png
 alt: image-alt

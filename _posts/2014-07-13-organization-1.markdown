@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 8
+modal-id: o1
 img: opendf.png
 alt: image-alt
 orgname: Open Democracy Foundation

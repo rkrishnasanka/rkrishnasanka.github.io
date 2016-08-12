@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 7
+modal-id: o2
 img: geeks.png
 alt: image-alt
 orgname: Geeks

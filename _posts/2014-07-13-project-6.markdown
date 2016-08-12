@@ -1,6 +1,6 @@
 ---
 layout: project
-modal-id: 6
+modal-id: p6
 date: 2014-07-18
 img: analog.png
 alt: image-alt
