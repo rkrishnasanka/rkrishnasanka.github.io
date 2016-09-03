@@ -12,6 +12,8 @@ description: Cloud Scrubs aims to connect rural health centers to a central syst
 ---
 # Cloud Scrubs
 
+## Cloud Scrubs (2012)
+
 Cloud Scrubs was my team's Imagine Cup 2012 entry. The project was selected as
 a national finalist in the UAE region. The project aimed to connect rural health
 centers sharing the patient information with the government and enable the mining
@@ -22,7 +24,23 @@ based distributed architecture. Future revision would iterate on this
 distributed architecture. The vision of this project remains to connect remote
 health centers and democratize the knowledge generated at these health centers.
 
-## Future Works
+### Collaborators
+
+1. [Prashant Vaidyanathan](https://twitter.com/vprashant1)
+2. [Sweekriti Sathpathy](https://twitter.com/SweekritiS)
+3. [Ashok Vydyanathan](https://twitter.com/ashoksv)
+
+### Links
+
+[BBC Arabic Interview](https://youtu.be/i-_MkEEjw64?list=WL&t=677)
+
+## Cloud Scrubs (2016)
+
+The Cloud Scrubs Project restarted in the summer of 2016 with a new undergraduate
+team from BITS Dubai joining in to work on the various projects within the Cloud
+Scrubs banner.
+
+### Planned Works
 
 1. Future implementations will try to build a generic Data API for querying and
 accessing the data that is generated at these health centers.
@@ -30,28 +48,11 @@ accessing the data that is generated at these health centers.
 3. Any easy to use SDK that can be used to create the data entry forms quickly
 and automatically create a data sharing and archiving network for that data.
 
-## Cloud Scrubs (2016)
-
-THe Cloud Scrubs Project restarted in the summer of 2016 with a new undergraduate
-team from BITS Dubai joining in to work on the various projects within the Cloud
-Scrubs banner.
-
 ## References
 
-1. Imagine Cup Presentation [PPT](/resources/Cloud_Scrubs_Presentation.pptx)
+1. Imagine Cup 2012 Presentation [PPT](/resources/Cloud_Scrubs_Presentation.pptx)
 [PDF](/resources/Cloud_Scrubs_Presentation.pdf).
 2. [Github Repository](https://github.com/cloudscrubs).
-
-## Collaborators
-
-1. [Prashant Vaidyanathan](https://twitter.com/vprashant1)
-2. [Sweekriti Sathpathy](https://twitter.com/SweekritiS)
-3. [Ashok Vydyanathan](https://twitter.com/ashoksv)
-
-## Links
-
-[BBC Arabic Interview](https://youtu.be/i-_MkEEjw64?list=WL&t=677)
-
 
 ## Signup
 
