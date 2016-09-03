@@ -1,5 +1,7 @@
 
     <!-- Portfolio Grid Section -->
+    <br />
+    <br />
     <section id="posters">
         <div class="container">
             <div class="row">
@@ -10,7 +12,7 @@
             </div>
               {% for image in site.static_files %}
                 {% if image.path contains 'img/posters' %}
-                  <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+                  <img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="400px" />
                 {% endif %}
               {% endfor %}
             </div>
