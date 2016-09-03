@@ -14,17 +14,15 @@
                 <div class="col-lg-12">
                     <bibtex src="/research/db.bib"></bibtex>
                     <div class="bibtex_template">
-                      <div class="if author" style="font-weight: bold;">
-                        <span class="if year">
-                          <span class="year"></span>,
-                        </span>
+                      <div class="if author">
                         <span class="author"></span>
+                          ,<span class="title" style="font-style: italic;"></span>
+                        <span class="if year">
+                          ,<span class="year"></span>,
+                        </span>
                         <span class="if url" style="margin-left: 20px">
                           <a class="url" style="color:black; font-size:10px">(view online)</a>
                         </span>
-                      </div>
-                      <div style="margin-left: 10px; margin-bottom:5px;">
-                        <span class="title"></span>
                       </div>
                     </div>
                     <div id="bibtex_display"></div>
@@ -32,4 +30,5 @@
             </div>
         </div>
     </section>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
     <script type="text/javascript" src="/js/bibtex_js.js"></script>
