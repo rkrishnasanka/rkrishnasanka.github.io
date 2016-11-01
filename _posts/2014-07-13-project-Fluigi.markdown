@@ -22,15 +22,20 @@ Microfluidic devices.
 
 ## Fluigi Core
 
-The Fluigi Core is set of tools and libraries that can give the user the abiity
+The Fluigi Core is set of tools and libraries that can give the user the ability
 to place and route Microfluidic Devices that follow the MINT standard for
-specifiying netlists and designs.
+specifying netlists and designs.
 
 ## Neptune
 
 Neptune is the application that ties together the various research projects
 under the Fluigi umbrella. It's a part of the work being done as a part of the
 iGEM 2016 entry into the Hardware Track.
+
+## Vulcan
+
+Vulcan introduces hardware primitives that enables biologists to perform complete
+biological protocols inside Microfluidics.
 
 ## Resources
 
@@ -40,3 +45,5 @@ iGEM 2016 entry into the Hardware Track.
 - Fluigi Core Source Code [Github Repository](https://github.com/CIDARLAB/fluigi/)
 - MINT Source Code [Github Repository](https://github.com/CIDARLAB/mint)
 - Neptune [iGEM Wiki](http://2016.igem.org/Team:BostonU_HW)
+- Neptune Software [Github Repository](https://github.com/CIDARLAB/Neptune)
+- Neptune Hardware [Github Repository](https://github.com/CIDARLAB/Neptune-Hardware)
