@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: aid
+img: aid.png
+alt: image-alt
+orgname: AID Boston Chapter
+orgurl : http://boston.aidindia.org
+role : Volunteer
+category: Organization
+description: AID is a volunteer movement promoting sustainable, equitable and just development. AID supports grassroots organizations in India and initiates efforts in various interconnected spheres such as education, livelihoods, natural resources including land, water and energy, agriculture, health, women's empowerment and social justice.
+
+---
