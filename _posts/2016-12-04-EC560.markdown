@@ -2,7 +2,14 @@
 layout: article
 category: notes
 title: Introduction to Photonics
-url: /resources/notes/EC560.pdf
 description:
 
 ---
+
+# Text Book
+
+[Fundamentals of Photonics](https://www.amazon.com/Fundamentals-Photonics-Bahaa-Saleh/dp/0471358320)
+
+# Notes
+
+[PDF](/resources/notes/EC560.pdf)
