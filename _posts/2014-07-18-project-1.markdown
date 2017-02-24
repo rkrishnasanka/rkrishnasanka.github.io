@@ -36,11 +36,9 @@ health centers and democratize the knowledge generated at these health centers.
 
 ## Cloud Scrubs (2016)
 
-The Cloud Scrubs Project restarted in the summer of 2016 with a new undergraduate
-team from BITS Dubai joining in to work on the various projects within the Cloud
-Scrubs banner.
+The Cloud Scrubs Project restarted in the summer of 2016 with a new undergraduate team from BITS Dubai joining in to work on the various projects within the Cloud Scrubs banner.
 
-### Planned Works
+### Planned Work
 
 1. Future implementations will try to build a generic Data API for querying and
 accessing the data that is generated at these health centers.
@@ -48,12 +46,19 @@ accessing the data that is generated at these health centers.
 3. Any easy to use SDK that can be used to create the data entry forms quickly
 and automatically create a data sharing and archiving network for that data.
 
+## Cloud Scrubs (2017)
+
+### Planned Work
+
+1. Construction of a Mobile Application framework for health data entry.
+2. Deployment of Mobile Applications to partner NGO's. 
+
+## Signup
+
+[Interest Form](http://goo.gl/forms/oEoFXalfHI)
+
 ## References
 
 1. Imagine Cup 2012 Presentation [PPT](/resources/Cloud_Scrubs_Presentation.pptx)
 [PDF](/resources/Cloud_Scrubs_Presentation.pdf).
 2. [Github Repository](https://github.com/cloudscrubs).
-
-## Signup
-
-[Signup for BITS Dubai](http://goo.gl/forms/oEoFXalfHI)
