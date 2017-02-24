@@ -51,11 +51,8 @@ and automatically create a data sharing and archiving network for that data.
 ### Planned Work
 
 1. Construction of a Mobile Application framework for health data entry.
-2. Deployment of Mobile Applications to partner NGO's. 
-
-## Signup
-
-[Interest Form](http://goo.gl/forms/oEoFXalfHI)
+2. Deployment of Mobile Applications to partner NGO's.
+3. Continue work on the 2016 targets.
 
 ## References
 
