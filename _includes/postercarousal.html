@@ -1,23 +1,5 @@
 
     <!-- Portfolio Grid Section -->
-    <style>
-      /* Prevents slides from flashing */
-      #slides {
-        display:none;
-      }
-    </style>
-
-    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
-    <script src="jquery.slides.min.js"></script>
-
-    <script>
-      $(function(){
-        $("#slides").slidesjs({
-          width: 940,
-          height: 528
-        });
-      });
-    </script>
     <section id="posters">
         <div class="container">
             <div class="row">
@@ -27,10 +9,10 @@
                 </div>
             </div>
             <div class="row">
-                <div id="slides" class="col-lg-12 text-center">
+                <div class="col-lg-12 text-center slides">
                     {% for image in site.static_files %}
                       {% if image.path contains 'img/posters' %}
-                        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="400px" />
+                        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="500px" />
                       {% endif %}
                     {% endfor %}
                 </div>
