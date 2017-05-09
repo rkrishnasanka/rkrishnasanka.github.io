@@ -1,6 +1,6 @@
 ---
 layout: project
-modal-id: p7
+modal-id: mlsynbio
 date: 2014-07-18
 img: synbio.png
 alt: image-alt

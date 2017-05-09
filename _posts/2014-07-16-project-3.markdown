@@ -1,6 +1,6 @@
 ---
 layout: project
-modal-id: p3
+modal-id: nunchuck
 date: 2014-07-18
 img: arduinonunchuk.png
 alt: image-alt

@@ -1,6 +1,6 @@
 ---
 layout: project
-modal-id: p7
+modal-id: powerelectronics
 date: 2014-07-18
 img: powerelectronics.png
 alt: image-alt

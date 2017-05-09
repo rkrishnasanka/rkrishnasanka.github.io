@@ -1,6 +1,6 @@
 ---
 layout: project
-modal-id: p1
+modal-id: cloudscrubs
 date: 2014-07-18
 img: cloudscrubs.png
 alt: image-alt
