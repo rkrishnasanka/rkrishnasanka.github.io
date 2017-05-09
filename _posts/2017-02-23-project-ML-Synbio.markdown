@@ -7,7 +7,7 @@ alt: image-alt
 title: Synthetic Biology
 link :
 category: project
-description: This is the collection of Power Electronics Designs
+description: Exploratory projects in Synbio
 
 ---
 # Synthetic Biology
