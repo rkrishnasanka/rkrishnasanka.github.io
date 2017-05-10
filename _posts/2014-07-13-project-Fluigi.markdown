@@ -10,15 +10,22 @@ category: project
 description: This is the collection of projects done as a part of CIDAR Lab
 
 ---
+
+![Fluigi](/img/cidar/fluigi.png)
 # Fluigi
 
 The Fluigi Project consists of open source tools and open standards that are
 used for automating design of Microfluidic Chips.
 
+<br />
+
+![MINT](/img/cidar/mint.png)
 ## MINT
 
 MINT is standard being developed at CIDAR Lab that is used for specifying
 Microfluidic devices.
+
+<br />
 
 ## Fluigi Core
 
@@ -26,16 +33,24 @@ The Fluigi Core is set of tools and libraries that can give the user the ability
 to place and route Microfluidic Devices that follow the MINT standard for
 specifying netlists and designs.
 
+
+<br />
+
+![Neptune](/img/cidar/neptune.png)
 ## Neptune
 
 Neptune is the application that ties together the various research projects
 under the Fluigi umbrella. It's a part of the work being done as a part of the
 iGEM 2016 entry into the Hardware Track.
 
+<br />
+
 ## Vulcan
 
 Vulcan introduces hardware primitives that enables biologists to perform complete
 biological protocols inside Microfluidics.
+
+<br />
 
 ## Resources
 
