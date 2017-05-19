@@ -1,0 +1,15 @@
+---
+layout: article
+category: notes
+title: Optical Fibers and Waveguides
+description:
+
+---
+
+# Text Books
+
+
+
+# Notes
+
+[PDF](/resources/notes/EC568.pdf)
