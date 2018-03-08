@@ -9,10 +9,10 @@
                 </div>
             </div>
             <div class="row">
-                <div id= class="col-lg-12 text-center slides">
+                <div id="caro" class="col-lg-12 text-center slides">
                     {% for image in site.static_files %}
                       {% if image.path contains 'img/posters' %}
-                        <img src="{{ site.baseurl }}{{ image.path }}" class="poster" alt="image" height="500px" />
+                        <div><img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="500px" /></div>
                       {% endif %}
                     {% endfor %}
                 </div>
@@ -20,6 +20,8 @@
         </div>
     </section>
 
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.8.0/slick.css"/>
 
 
@@ -27,5 +29,7 @@
     <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.8.0/slick.min.js"></script>
 
     <script>
-    $('.poster').slick();
+    $(document).ready(function(){
+      $('#test').slick();
+    });
     </script>
