@@ -35,6 +35,12 @@ description: This is the collection of Photonics Review Papers and Presentations
 - [Simulations](/resources/simulations/Phot1.zip)
 - [Layouts](/resources/designs/EBeam_rkrishnasanka_final.gds)
 
+### Micrographs
+
+<img src="/img/photonics/14396686834850067.jpg" width="600px"/>
+
+<img src="/img/photonics/14396686834850067n.jpg" width="600px"/>
+
 ## Resources
 
 - MATLAB Numerical Workbench used for EC568 and EC770 [Github](https://github.com/rkrishnasanka/Photonics).
