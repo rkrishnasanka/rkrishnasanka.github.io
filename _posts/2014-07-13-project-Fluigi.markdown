@@ -45,6 +45,23 @@ iGEM 2016 entry into the Hardware Track.
 
 <br />
 
+
+![3DuF](/img/cidar/3duf.png)
+## 3DuF
+
+3DuF is the first completely open source interactive microfluidic system designer that readily supports state of the art design automation algorithms. 
+
+<br />
+
+
+![LFR](/img/cidar/lfr.png)
+## Liquid Flow Relationships (LFR)
+
+LFR is a Domain specific hardware description language inspired by verilog to describe microfluidic architectures.
+
+<br />
+
+
 ## Vulcan
 
 Vulcan introduces hardware primitives that enables biologists to perform complete
